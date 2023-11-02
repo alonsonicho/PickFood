@@ -1,0 +1,503 @@
+[
+    {
+      "id": 1,
+      "name": "Lomo Saltado",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "1544",
+      "description": "Lorem ipsum",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 2,
+      "name": "Ceviche de Pescado",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "1200",
+      "description": "Delicioso ceviche de pescado fresco.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 3,
+      "name": "Pollo a la Brasa",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "1800",
+      "description": "Jugoso pollo a la brasa con papas doradas.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 4,
+      "name": "Tallarines Verdes",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "800",
+      "description": "Tallarines verdes con salsa de huacatay.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 5,
+      "name": "Ají de Gallina",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "1000",
+      "description": "Ají de gallina con papas y huevo duro.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 6,
+      "name": "Anticuchos",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "600",
+      "description": "Anticuchos de corazón marinados.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 7,
+      "name": "Causa Rellena",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "700",
+      "description": "Causa rellena con pollo y aguacate.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 8,
+      "name": "Rocoto Relleno",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "400",
+      "description": "Rocoto relleno de carne y queso.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 9,
+      "name": "Papa a la Huancaína",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "900",
+      "description": "Papa a la huancaína con ají amarillo y queso.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 10,
+      "name": "Cau Cau",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "500",
+      "description": "Cau cau de mondongo con arroz blanco.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 11,
+      "name": "Arroz Chaufa",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "1100",
+      "description": "Arroz chaufa con pollo y vegetales.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 12,
+      "name": "Seco de Res",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "850",
+      "description": "Seco de res con frejoles y arroz.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 13,
+      "name": "Chicharrón de Pescado",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "750",
+      "description": "Chicharrón de pescado con yuca frita.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 14,
+      "name": "Tacu Tacu",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "600",
+      "description": "Tacu tacu con lomo fino y salsa de maracuyá.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 15,
+      "name": "Chaufa de Mariscos",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "1200",
+      "description": "Arroz chaufa de mariscos con salsa de tamarindo.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 16,
+      "name": "Sopa de Maní",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "500",
+      "description": "Sopa de maní con carne de res.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 17,
+      "name": "Tiradito de Pescado",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "950",
+      "description": "Tiradito de pescado con salsa de ají amarillo.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 18,
+      "name": "Arroz con Pato",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "700",
+      "description": "Arroz con pato y cerveza negra.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 19,
+      "name": "Solterito",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "600",
+      "description": "Solterito con queso fresco y maíz.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 20,
+      "name": "Parihuela",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "450",
+      "description": "Parihuela de mariscos y pescado.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 18,
+      "name": "Arroz con Pato",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "700",
+      "description": "Arroz con pato y cerveza negra.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 19,
+      "name": "Solterito",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "600",
+      "description": "Solterito con queso fresco y maíz.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 20,
+      "name": "Parihuela",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "450",
+      "description": "Parihuela de mariscos y pescado.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 18,
+      "name": "Arroz con Pato",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "700",
+      "description": "Arroz con pato y cerveza negra.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 19,
+      "name": "Solterito",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "600",
+      "description": "Solterito con queso fresco y maíz.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 20,
+      "name": "Parihuela",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "450",
+      "description": "Parihuela de mariscos y pescado.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 18,
+      "name": "Arroz con Pato",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "700",
+      "description": "Arroz con pato y cerveza negra.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 19,
+      "name": "Solterito",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "600",
+      "description": "Solterito con queso fresco y maíz.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 20,
+      "name": "Parihuela",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "450",
+      "description": "Parihuela de mariscos y pescado.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 18,
+      "name": "Arroz con Pato",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "700",
+      "description": "Arroz con pato y cerveza negra.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 19,
+      "name": "Solterito",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "600",
+      "description": "Solterito con queso fresco y maíz.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 20,
+      "name": "Parihuela",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "450",
+      "description": "Parihuela de mariscos y pescado.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 18,
+      "name": "Arroz con Pato",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "700",
+      "description": "Arroz con pato y cerveza negra.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 19,
+      "name": "Solterito",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "600",
+      "description": "Solterito con queso fresco y maíz.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 20,
+      "name": "Parihuela",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "450",
+      "description": "Parihuela de mariscos y pescado.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 18,
+      "name": "Arroz con Pato",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "700",
+      "description": "Arroz con pato y cerveza negra.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 19,
+      "name": "Solterito",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "600",
+      "description": "Solterito con queso fresco y maíz.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 20,
+      "name": "Parihuela",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "450",
+      "description": "Parihuela de mariscos y pescado.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 18,
+      "name": "Arroz con Pato",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "700",
+      "description": "Arroz con pato y cerveza negra.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 19,
+      "name": "Solterito",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "600",
+      "description": "Solterito con queso fresco y maíz.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 20,
+      "name": "Parihuela",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "450",
+      "description": "Parihuela de mariscos y pescado.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 18,
+      "name": "Arroz con Pato",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "700",
+      "description": "Arroz con pato y cerveza negra.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 19,
+      "name": "Solterito",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "600",
+      "description": "Solterito con queso fresco y maíz.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 20,
+      "name": "Parihuela",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "450",
+      "description": "Parihuela de mariscos y pescado.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 18,
+      "name": "Arroz con Pato",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "700",
+      "description": "Arroz con pato y cerveza negra.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 19,
+      "name": "Solterito",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "600",
+      "description": "Solterito con queso fresco y maíz.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 20,
+      "name": "Parihuela",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "450",
+      "description": "Parihuela de mariscos y pescado.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 18,
+      "name": "Arroz con Pato",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "700",
+      "description": "Arroz con pato y cerveza negra.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 19,
+      "name": "Solterito",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "600",
+      "description": "Solterito con queso fresco y maíz.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    },
+    {
+      "id": 20,
+      "name": "Parihuela",
+      "category": "Carta",
+      "price": 25,
+      "quantity": "450",
+      "description": "Parihuela de mariscos y pescado.",
+      "status": "En stock",
+      "image": "https://www.elolivar.com.pe/wp-content/uploads/2021/08/lomo-saltado.png"
+    }
+  ]
+  

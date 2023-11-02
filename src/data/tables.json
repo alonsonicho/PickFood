@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mesa 1",
+    "capacidad": 4,
+    "estado": "Libre"
+  },
+  {
+    "id": 2,
+    "nombre": "Mesa 2",
+    "capacidad": 6,
+    "estado": "Ocupada"
+  },
+  {
+    "id": 3,
+    "nombre": "Mesa 3",
+    "capacidad": 2,
+    "estado": "Libre"
+  },
+  {
+    "id": 4,
+    "nombre": "Mesa 4",
+    "capacidad": 8,
+    "estado": "Reservada"
+  },
+  {
+    "id": 5,
+    "nombre": "Mesa 5",
+    "capacidad": 4,
+    "estado": "Libre"
+  },
+  {
+    "id": 6,
+    "nombre": "Mesa 6",
+    "capacidad": 4,
+    "estado": "Libre"
+  },
+  {
+    "id": 7,
+    "nombre": "Mesa 7",
+    "capacidad": 4,
+    "estado": "Libre"
+  }
+]
