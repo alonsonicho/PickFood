@@ -3,6 +3,7 @@ import useTablesAndOrders from "./hooks/useTablesAndOrders";
 import { useDisclosure, useToast } from "@chakra-ui/react";
 import TableContent from "./components/TableContent";
 import { STATUS } from "@routes/routes";
+import tableImage from "@assets/table.svg";
 
 const Tables = () => {
   const toast = useToast();
@@ -46,7 +47,7 @@ const Tables = () => {
                 tableStatus === "Libre" ? "bg-amber-400" : "bg-green-300"
               } flex flex-col  w-60 h-60 rounded-md shadow-black shadow-md mx-auto cursor-pointer`}
             >
-              <img src="/src/assets/table.svg" alt="table" className="" />
+              <img src={tableImage} alt="table" className="" />
               <div className="flex-1">
                 <div className="flex flex-col h-full items-center justify-center text-lg font-semibold">
                   <span>{table.title}</span>
